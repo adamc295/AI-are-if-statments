@@ -7,4 +7,19 @@ However, the concept of AI is very hard to understand. It can involve complex ma
 So, a simpler way was invented. The `if` statment.
 
 # Explanation of `if`
-`// TODO`
+The `if` statment can be used for alot of things, but we will just be focusing on AI for now.
+
+An example of AI is:
+
+`if(emotion=angery){
+	die();
+	kill();
+	// wait what
+};`
+
+This example is not a good one, but a diagram might help.
+
+However, github doesn't like me.
+
+:(
+
