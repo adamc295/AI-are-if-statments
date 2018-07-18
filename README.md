@@ -1,3 +1,5 @@
+### This repository is satire, if you couldn't of guessed.
+
 # AI are if statments
 
 AI is a wonderful thing. It can help us read the news, tell jokes, or even _play skyrim_.
